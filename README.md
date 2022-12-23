@@ -1,4 +1,8 @@
-### This is a Whatsapp Clone with MERN Stack (MongoDB, Express, React, Node JS)
+# THIS IS A "Whatsapp Clone" with MERN Stack
+
+   This section contains file related to FRONTEND of "Whatsapp Clone". \
+   Link to BACKEND of "Whatsapp Clone" (https://github.com/saakxshi/whatsapp-backend-mern.git).
+  
 
 ## Tech Stack
   * React js
@@ -9,8 +13,6 @@
   * Postman
   * Express
   * Node JS
-  
-   
    
 ## Getting Started with Create React App
 
