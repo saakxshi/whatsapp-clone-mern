@@ -1,4 +1,14 @@
-##This is a Whatsapp Clone with MERN Stack (MongoDB, Express, React, Node JS)
+### This is a Whatsapp Clone with MERN Stack (MongoDB, Express, React, Node JS)
+
+## Tech Stack
+   React js
+   Firebase Firestore Realtime DB
+   Material UI
+   MongoDB
+   Pusher
+   Postman
+   
+   
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
