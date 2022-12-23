@@ -1,5 +1,5 @@
-
-# Getting Started with Create React App
+##This is a Whatsapp Clone with MERN Stack (MongoDB, Express, React, Node JS)
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
