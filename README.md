@@ -1,12 +1,15 @@
 ### This is a Whatsapp Clone with MERN Stack (MongoDB, Express, React, Node JS)
 
 ## Tech Stack
-   React js
-   Firebase Firestore Realtime DB
-   Material UI
-   MongoDB
-   Pusher
-   Postman
+  * React js
+  * Firebase Firestore Realtime DB
+  * Material UI
+  * MongoDB
+  * Pusher
+  * Postman
+  * Express
+  * Node JS
+  
    
    
 ## Getting Started with Create React App
