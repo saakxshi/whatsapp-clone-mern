@@ -9,7 +9,6 @@
 
 ## Tech Stack
   * React js
-  * Firebase Firestore Realtime DB
   * Material UI
   * MongoDB
   * Pusher
